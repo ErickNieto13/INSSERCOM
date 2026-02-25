@@ -1,51 +1,61 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "Construyendo un Nuevo Mundo de Servicio."
+  content: "INRETEL: está presente en todas las necesidades de nuestros clientes, proporcionando una atención y servicio con profesionalismo y calidad."
   image: "/images/banner.png"
   button:
-    enable: true
+    enable: false
     label: "Fork Deploy and Edit Online 🚀"
     link: "https://app.sitepins.com/new/clone?name=Astroplate&repository=https://github.com/zeon-studio/astroplate/"
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "Instalaciones y Giro Principal de INRETEL :"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: |
+     Director General: José Daniel Gasca San Elías
+      Instalaciones: Luís Tapia García
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Cableados de INTERbdtd con conector DUAL BALUM 75 a 120 OHMS"
+      - "Instalación de Equipos Ópticos, Demarcadores. "
+      - "Sistemas de Cableados Redes de Voz, Datos, Video. "
+      - "Fijación de Bastidores, Rack, s Y Gabinetes (ETSI ANSI) en salas de comunicación"
+      - "Infraestructura y Canalización para: Coaxial, FZA, Datos y Fibra Óptica."
+      - "Instalación de Equipos por Cobre: HDSL, XDSL."
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Astro"
+  - title: "Actividades realizadas más próximas."
     image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: ""
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "INSTALACIONES DE CABLEADOS EN SALAS DE LA RED CORPORATIVA DE DATOS TELMEX.(RCDT)."
+      - "INFRAESTRUCTURAS Y CANALIZACIONES ."
+      - "MONTAJES Y DESMONTAJES DE EQUIPOS ÓPTICOS."
+      - "INSTALACION Y DE CAMARAS CCTV."
     button:
       enable: true
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/astroplate"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
+  - title: " Lista: equipo de medición y herramientas:"
     image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: " DESCRIPCIÓN DE KIT DE CAMPO POR CUADRILLA                                   CANTIDAD."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Equipo de Medición  OTDR."
+      - "Computadora portátil. (Lap toop)."
+      - "Equipo de Medición 2048 Mbits E1."
+      - "Microscopios digitales ."
+      - "Champeadotas de 32 Pares."
+      - "Amperímetros, Voltímetros, Escáner."
+      - "Etiquetadoras BRADY BMP61 BMP610."
+      - "Maletas de Herramienta varía para Campo en General."
+      - "Pinzas Ponchadoras de Terminales en CD Y ADC Varios Calibres."
+  
+
     button:
       enable: false
       label: ""
