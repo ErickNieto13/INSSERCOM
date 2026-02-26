@@ -22,6 +22,7 @@ features:
       - "Sistemas de Cableados Redes de Voz, Datos, Video. "
       - "Fijación de Bastidores, Rack, s Y Gabinetes (ETSI ANSI) en salas de comunicación"
       - "Infraestructura y Canalización para: Coaxial, FZA, Datos y Fibra Óptica."
+      - "Instalación Y prueba CCTV"
       - "Instalación de Equipos por Cobre: HDSL, XDSL."
     button:
       enable: false
@@ -35,7 +36,7 @@ features:
       - "INSTALACIONES DE CABLEADOS EN SALAS DE LA RED CORPORATIVA DE DATOS TELMEX.(RCDT)."
       - "INFRAESTRUCTURAS Y CANALIZACIONES ."
       - "MONTAJES Y DESMONTAJES DE EQUIPOS ÓPTICOS."
-      - "INSTALACION Y DE CAMARAS CCTV."
+      - "INSTALACIONES DE EQUIPOS: GPON, NOKIA."
     button:
       enable: true
       label: "Get Started Now"
@@ -46,7 +47,7 @@ features:
     content: " DESCRIPCIÓN DE KIT DE CAMPO POR CUADRILLA                                   CANTIDAD."
     bulletpoints:
       - "Equipo de Medición  OTDR."
-      - "Computadora portátil. (Lap toop)."
+      - "Computadora portátil. (Laptop)."
       - "Equipo de Medición 2048 Mbits E1."
       - "Microscopios digitales ."
       - "Champeadotas de 32 Pares."
@@ -54,10 +55,39 @@ features:
       - "Etiquetadoras BRADY BMP61 BMP610."
       - "Maletas de Herramienta varía para Campo en General."
       - "Pinzas Ponchadoras de Terminales en CD Y ADC Varios Calibres."
-  
-
     button:
       enable: false
       label: ""
       link: ""
+
+  - title: "Cuadrilla:"
+    image: "/images/Plano.png"
+    content: "INSTALACIONES Y TECNICOS DE SERVICIO"
+    bulletpoints:
+      - "Luis Tapia García -------------- Técnico"  
+      - "Omar Contreras Martineza --- Técnico"
+      - "Christian González Valle ----- Técnico"
+      - "Erick Andres Nieto Ramos --- Técnico"
+      - "Carlos García Andrade -------- Técnico"
+      - "Rodolfo Gutiérrez Cervantes - Técnico"
+    button:
+      enable: false
+      label: ""
+      link: ""  
+
+  - title: "Cuadrilla de vehiculos:"
+    image: "/images/favicon.png"
+    content: "VEHICULOS DE SERVICIO"
+    bulletpoints:
+      - "NISAN pick-up Modelo 2007"  
+      - "VERSA Modelo 2018"
+      - "NISSAN TSURU 2008"
+      - "MITSUBISHI LANCER 2009"
+      - "FORD FIESTA 2015"
+      
+    button:
+      enable: false
+      label: ""
+      link: ""
+
 ---

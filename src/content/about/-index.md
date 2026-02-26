@@ -14,7 +14,7 @@ Nueva Visión: Tener una infraestructura utilizando tecnología de vanguardia pa
 El éxito de nuestro departamento dependerá de la satisfacción de nuestros clientes.
 
 
-Nuestros Valores: Honestidad y ética profesional: sabemos que el éxito de nuestro negocio depende del carácter e integridad de todos lo que trabajamos en INSSERCOM.
+Nuestros Valores: Honestidad y ética profesional: sabemos que el éxito de nuestro negocio depende del carácter e integridad de todos lo que trabajamos en INRETEL.
 Proactivos: Proporcionamos soluciones. Nunca seremos el problema o parte de él.
 
 Ambiciosos: Nos gusta superar las expectativas de nuestros clientes.
